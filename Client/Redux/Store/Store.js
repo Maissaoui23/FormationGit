@@ -1,0 +1,1 @@
+const vart = 0;
