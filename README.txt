@@ -1,3 +1,3 @@
 # FormationGit
 
-* Feature 1
+* Creation 1er Feature sur Kraken
